@@ -1,6 +1,7 @@
 # MuhRO Web Installer
 
 This project contains the source code and tools to build the MuhRO web installer. The installer is created using Inno Setup and includes a custom downloader script to fetch the game files from a remote server. 
+
 **Note: This is an open source project from the Ecne Project community, and is not directly related to the MuhRO Project, as a means to learn techniques for bettering the Inno Setup open source compiler with custom solutions to the aging IDP failing module.**
 ## Features
 
