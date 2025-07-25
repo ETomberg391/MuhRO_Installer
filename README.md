@@ -34,3 +34,7 @@ For more details, see [`signing_instructions/signing_instructions.md`](signing_i
 -   `7za.exe`, `curl.exe`, `libcurl.dll`: Command-line tools used by the installer.
 -   `muhro.ico`: The icon file for the installer.
 -   `LICENSE`: The project's license file.
+
+## Replicating the Installer
+
+Future updates will include a template or a batch script to simplify the process of customizing the installer for your own projects. This will make it easier to change details such as the application name, download URL, and other settings within the Inno Setup script.
